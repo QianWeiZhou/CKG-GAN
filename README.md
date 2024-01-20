@@ -23,7 +23,7 @@ IXI dataset: https://brain-development.org/ixi-dataset/
     3. In /datasets/IXI/, list all images of IXI dataset.
 
 # Train CKG-GAN 
-The pre-trained segmentation model and the student model are stored in the folder ./model.
+You can obtain the pre-trained segmentation model and the student model for link https://pan.baidu.com/s/1VAwsJxAg0WmQyobuwQFOUQ, the password is bfgq, then put them in the folder ./model.
 
 `$ python brats_4type_train.py` to train image generator.
 * Output:
