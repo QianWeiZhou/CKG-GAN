@@ -11,9 +11,9 @@
 6. `$ pip install pypng`
 
 # You can train/test the CKG-GAN models by following instructions below.
-BraTs2018: https://www.med.upenn.edu/sbia/brats2018/data.html
-BraTs2021: http://braintumorsegmentation.org/
-IXI dataset: https://brain-development.org/ixi-dataset/
+1. BraTs2018: https://www.med.upenn.edu/sbia/brats2018/data.html
+2. BraTs2021: http://braintumorsegmentation.org/
+3. IXI dataset: https://brain-development.org/ixi-dataset/
 
 # Prepare Imaging Data
 1. Adjust original images to the resolutions reported in the paper.
