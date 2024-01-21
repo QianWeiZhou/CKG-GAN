@@ -1,9 +1,3 @@
-# @Time    : 2019/12/30 下午3:53
-# @Author  : KuanKuan
-# @Email   : KuanKuanlinux@gmail.com
-# @File    : module1.py
-
-
 import torch.nn as nn
 
 
