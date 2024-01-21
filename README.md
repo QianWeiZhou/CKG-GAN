@@ -23,7 +23,7 @@
     3. In /datasets/IXI/, list all images of IXI dataset.
 
 # Train CKG-GAN 
-You can obtain the pre-trained segmentation model and the student model for link https://pan.baidu.com/s/1VAwsJxAg0WmQyobuwQFOUQ, the password is bfgb, then put them in the folder ./model.
+You can obtain the pre-trained segmentation model and the student model for link https://pan.baidu.com/s/1EFgyt2YjGULHPEkhw37BQw?pwd=e2eb, the password is e2eb, then put them in the folder ./model.
 
 `$ python brats_4type_train.py` to train image generator.
 * Output:
@@ -39,5 +39,7 @@ You can obtain the pre-trained segmentation model and the student model for link
 * Output: the code will generate target type images from input images.   
     * Generated fake images will be in the folder ./test
     * For example: /Samples/realImages/3917L-CC-neg.png ---> ./test/output_num0001.jpg
+
+# The way of using the code for the IXI dataset can refer to the code logic of the aforementionedBraTs series of datasets.
 
 # The Work is Licensed with Apache License Version 2.0.
