@@ -1,8 +1,3 @@
-# @Time    : 2019/8/28 下午5:08
-# @Author  : Yibo Liu
-# @Email   : 17767094198@163.com
-# @File    : resnet.py
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
