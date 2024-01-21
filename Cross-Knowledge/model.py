@@ -1,8 +1,3 @@
-# @Time    : 2019/8/28 下午5:07
-# @Author  : Yibo Liu
-# @Email   : 17767094198@163.com
-# @File    : model.py
-
 import torch
 from torch import nn
 import resnet
