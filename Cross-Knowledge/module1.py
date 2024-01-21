@@ -1,9 +1,3 @@
-# @Time    : 2019/12/30 下午3:53
-# @Author  : Yibo Liu
-# @Email   : 17767094198@163.com
-# @File    : module1.py
-
-
 import torch.nn as nn
 
 
