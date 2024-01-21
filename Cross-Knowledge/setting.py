@@ -1,9 +1,3 @@
-# @Time    : 2019/8/28 下午5:11
-# @Author  : Yibo Liu
-# @Email   : 17767094198@163.com
-# @File    : setting.py
-
-
 import argparse
 
 
