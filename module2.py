@@ -1,9 +1,3 @@
-# @Time    : 2019/12/30 下午3:53
-# @Author  : KuanKuan
-# @Email   : KuanKuanlinux@gmail.com
-# @File    : module2.py
-
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
