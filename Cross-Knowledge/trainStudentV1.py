@@ -1,9 +1,3 @@
-# @Time    : 2019/12/3 下午2:30
-# @Author  : Yibo Liu
-# @Email   : 17767094198@163.com
-# @File    : trainstudent_version2.py
-
-
 from torch import nn
 import torch
 import torchvision.transforms as tf
