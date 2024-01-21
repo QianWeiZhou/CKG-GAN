@@ -1,8 +1,3 @@
-# @Time    : 2019/12/25 下午1:40
-# @Author  : Yibo Liu
-# @Email   : 17767094198@163.com
-# @File    : ImageCopyDataset3.py
-
 """
 细分类数据集制作
 """
