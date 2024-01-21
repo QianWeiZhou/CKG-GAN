@@ -1,5 +1,5 @@
 # Source code (Pytorch) for the paper: “Cross-Dimensional Knowledge-Guided Synthesizer Trained With Unpaired Multimodality MRIs”
-# Contact: zhouqianweischolar@gmail.com (Qianwei Zhou) and 202103150302@zjut.edu.cn (Binjia Zhou)
+# Contact: 202103150302@zjut.edu.cn (Binjia Zhou) and zhouqianweischolar@gmail.com (Qianwei Zhou) 
 # Configure the Enviroment
 ## Depending on speed of your Internet connection，installation may take hours.
 ## In our implemenation, we used python 3.8.18, Ubuntu 18.04.6 LTS with GPU.  
@@ -7,7 +7,7 @@
 2. cuda version: 12.1
 3. GPU memory >= 12GB
 4. install miniconda
-5. `$ conda create --name testENV --file package-list.txt -c pytorch`
+5. `$ conda create --name testENV --file requirements.txt -c pytorch`
 6. `$ pip install pypng`
 
 # You can train/test the CKG-GAN models by following instructions below.
