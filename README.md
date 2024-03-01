@@ -40,6 +40,6 @@ You can obtain the pre-trained segmentation model and the student model for link
     * Generated fake images will be in the folder ./test
     * For example: /Samples/realImages/3917L-CC-neg.png ---> ./test/output_num0001.jpg
 
-# The way of using the code for the IXI dataset can refer to the code logic of the aforementionedBraTs series of datasets.
+# The way of using the code for the IXI dataset can refer to the code logic of the aforementioned BraTs series of datasets.
 
 # The Work is Licensed with Apache License Version 2.0.
